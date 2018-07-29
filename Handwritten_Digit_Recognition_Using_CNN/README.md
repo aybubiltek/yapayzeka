@@ -1,4 +1,4 @@
-# Handwriting Digits Recognition Using CNN
+# Handwritten Digit Recognition Using CNN
 > El yazısı ile yazılmış rakamları Evrişimli Sinir Ağları ile tanımlama.
 
 [![Build Status][travis-image]][travis-url]
