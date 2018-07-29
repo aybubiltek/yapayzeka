@@ -3,7 +3,6 @@
 </p>
 
 <p align="center"> Biltek Yapay Zeka Ekibi </p>
-<br> <br>
 
 # Çalışmalarımız
 
