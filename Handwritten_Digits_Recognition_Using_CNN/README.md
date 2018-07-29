@@ -3,13 +3,13 @@
 
 [![Build Status][travis-image]][travis-url]
 
-Keras ile oluşturulan Evrişimli Sinir Ağı yapısı ile kullanıcının yazdığı rakamları tanımlayabilen bir sinir ağı modelidir.
+Keras ile Mnist veri seti üzerinde oluşturulan Evrişimli Sinir Ağı yapısı ile kullanıcının yazdığı rakamları tanımlayabilen bir sinir ağı modelidir.
 
 ![CNN](https://media.giphy.com/media/1AiMRBz6dIUYMaOQz8/giphy.gif)
 
 ## Kurulum
 
-Windows:
+| Windows:
 
 Kurulum için requirements.txt dosyasının bulunduğu dizinde konsola aşağıdaki kod yazılmalıdır.
 ```
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Daha sonra eğer hazır olan modeli kullanmak istiyorsanız, Build klasörünün içerisindeki Exe dosyasını çalıştırmanız yeterlidir.
 
 
-OS X & Linux (Sadece Model Desteklenmektedir):
+| OS X & Linux (Sadece Model Desteklenmektedir):
 
 ```
 pip install -r requirements.txt
