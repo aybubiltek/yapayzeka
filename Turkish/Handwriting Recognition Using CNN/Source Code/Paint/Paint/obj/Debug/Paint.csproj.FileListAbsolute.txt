@@ -1,0 +1,8 @@
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek_Yapay_Zeka_Ekibi.Properties.Resources.resources
+C:\Users\burak\Desktop\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.exe
+C:\Users\burak\Desktop\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.pdb
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.exe
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.pdb

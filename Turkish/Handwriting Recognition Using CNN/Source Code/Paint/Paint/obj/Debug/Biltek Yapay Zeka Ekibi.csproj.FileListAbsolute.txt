@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.exe
+C:\Users\burak\Desktop\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.pdb
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek_Yapay_Zeka_Ekibi.Properties.Resources.resources
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.csproj.GenerateResource.Cache
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.exe
+C:\Users\burak\Desktop\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.pdb
+D:\programlama\Yapay zeka projeleri\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.exe
+D:\programlama\Yapay zeka projeleri\Paint\Paint\bin\Debug\Biltek Yapay Zeka Ekibi.pdb
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Biltek_Yapay_Zeka_Ekibi.Properties.Resources.resources
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.csproj.GenerateResource.cache
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.csproj.CoreCompileInputs.cache
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.exe
+D:\programlama\Yapay zeka projeleri\Paint\Paint\obj\Debug\Biltek Yapay Zeka Ekibi.pdb
