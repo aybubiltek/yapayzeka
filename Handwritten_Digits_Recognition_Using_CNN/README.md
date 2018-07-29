@@ -23,7 +23,11 @@ Daha sonra eğer hazır olan modeli kullanmak istiyorsanız, Build klasörünün
 ```
 pip install -r requirements.txt
 ```
+## Build ve Source Code
 
+Build: Projenin kullanmaya hazır halidir, herhangi bir değişiklik yapmayı gerektirmez.
+
+Source Code: Projenin kaynak kodlarını içerir, derleme ve eğitim gerektirebilir.
 
 ## Meta
 
