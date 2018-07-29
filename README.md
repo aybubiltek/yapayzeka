@@ -6,7 +6,7 @@
 
 # Çalışmalarımız
 
-> Evrişimli Sinir Ağları ile el yazısı ile yazılmış rakam tanımlama [Proje Sayfası](https://github.com/aybubiltek/yapayzeka/tree/master/Handwriting_Digits_Recognition_Using_CNN)
+> Evrişimli Sinir Ağları ile el yazısı ile yazılmış rakam tanımlama [Proje Sayfası](https://github.com/aybubiltek/yapayzeka/tree/master/Handwritten_Digits_Recognition_Using_CNN)
 
 > DJI Ryze Tello Drone Kontrolü ve obje tanımlama [Eklenecek](https://github.com/aybubiltek/yapayzeka/)
 
