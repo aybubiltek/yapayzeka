@@ -1,8 +1,5 @@
-<<<<<<< HEAD:Handwritten_Digit_Recognition_Using_CNN/README.md
 # Handwritten Digit Recognition Using CNN
-=======
-# Handwritten Digits Recognition Using CNN
->>>>>>> 744ec1762635056e52f6d97711c95e743b16df88:Handwritten_Digits_Recognition_Using_CNN/README.md
+
 > El yazısı ile yazılmış rakamları Evrişimli Sinir Ağları ile tanımlama.
 
 [![Build Status][travis-image]][travis-url]
