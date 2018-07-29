@@ -10,6 +10,9 @@
 
 > DJI Ryze Tello Drone Kontrolü ve obje tanımlama [Eklenecek](https://github.com/aybubiltek/yapayzeka/)
 
+> CNN ile yüz tanıma projesi [Eklenecek](https://github.com/aybubiltek/yapayzeka/)
+
+> Derin Öğrenme Tutorialları [Eklenecek](https://github.com/aybubiltek/yapayzeka/)
 
 # Bizi Takip Edin
 
